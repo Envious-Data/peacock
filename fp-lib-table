@@ -6,4 +6,5 @@
   (lib (name "PCM_marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-choc.pretty")(options "")(descr ""))
   (lib (name "PCM_marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "PCM_marbastlib-xp-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-xp-choc.pretty")(options "")(descr ""))
+  (lib (name "extras")(type "KiCad")(uri "${KIPRJMOD}/footprints/extras")(options "")(descr ""))
 )
